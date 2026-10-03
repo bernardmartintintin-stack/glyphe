@@ -1,0 +1,12 @@
+{
+  "name": "glyphe",
+  "version": "2.0.0",
+  "description": "Dessinez sur votre écran avec un raccourci clavier",
+  "main": "main.js",
+  "scripts": { "start": "electron ." },
+  "keywords": ["annotation", "screen", "draw", "electron", "overlay"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/TON_PSEUDO/glyphe.git" },
+  "homepage": "https://github.com/TON_PSEUDO/glyphe#readme",
+  "devDependencies": { "electron": "^33.0.0" }
+}
