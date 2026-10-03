@@ -1,7 +1,7 @@
 {
   "name": "glyphe",
   "version": "2.0.0",
-  "description": "Dessinez sur votre écran avec un raccourci clavier",
+  "description": "Dessinez sur écran",
   "main": "main.js",
   "scripts": { "start": "electron ." },
   "keywords": ["annotation", "screen", "draw", "electron", "overlay"],
